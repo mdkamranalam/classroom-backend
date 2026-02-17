@@ -13,16 +13,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-<<<<<<< HEAD
     "@neondatabase/serverless": "^1.0.2",
     "cors": "^2.8.6",
     "dotenv": "^17.2.3",
     "drizzle-orm": "^0.45.1",
     "express": "^5.2.1",
     "ws": "^8.19.0"
-=======
-    "express": "^5.2.1"
->>>>>>> main
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
